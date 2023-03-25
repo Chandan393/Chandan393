@@ -1,3 +1,4 @@
+![logo](https://github.com/Chandan393/Chandan393/blob/main/Github_Banner.gif)
 <h1 align="center">Hi 👋, I'm Chandan Gope</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
