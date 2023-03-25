@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan393&label=Profile%20views&color=0e75b6&style=flat" alt="chandan393" /> </p>
 
 - 📫 How to reach me **chandangope555.cg@gmail.com**
+
 - 🔭 I’m currently working on **SpringBoot based projects**
+
 - ⚡ Fun fact **I think I have a Good Sense of Humour**
 
 <h3 align="left">Connect with me:</h3>
