@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **SpringBoot based projects**
 
-- ⚡ Fun fact **I think I have a Good Sense of Humour**
+- ⚡ Fun fact **I'm an Astrophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
